@@ -1,0 +1,25 @@
+.transaction-history {
+  margin: 0 auto;
+  width: fit-content;
+  background-color: white;
+  margin-top: 30px;
+  box-shadow: 10px 10px 63px -28px rgba(53, 53, 53, 0.7);
+  margin-bottom: 30px;
+}
+
+.table-head th {
+  width: 300px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 30px;
+  background-color: #00BCD5;
+  color: white;
+}
+
+.table-body td {
+  padding: 15px 0px 15px 150px;
+  border: 1px solid rgba(194, 194, 194, 0.473);
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(50, 50, 50);
+}
